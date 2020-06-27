@@ -1,4 +1,5 @@
 public class MaxStringSub {
+	//
     public int FindGreatestSumOfSubArray(int[] array) {
         int max = array[0];
         int cur = array[0];
